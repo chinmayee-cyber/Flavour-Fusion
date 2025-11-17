@@ -55,7 +55,7 @@ In addition to the core features taught by the course instructors, I added some 
 
 ## Acknowledgments
 
-To explore the project and learn more, visit the GitHub page: https://github.com/your_username/FlavorFusion
+To explore the project and learn more, visit the GitHub page: https://github.com/chinmayee-cyber/FlavorFusion
 
 Best regards,  
 Chinmayee BC
